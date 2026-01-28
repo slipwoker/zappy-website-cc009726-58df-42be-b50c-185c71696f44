@@ -1,0 +1,57 @@
+# Yuval Malachi — Generative Engine Optimization Map
+
+> A public speaking business.
+
+---
+
+## Pages
+
+### Home
+https://yuval-malachi-cc009726.zappy5.app
+
+### About
+https://yuval-malachi-cc009726.zappy5.app/about
+
+### Speaking
+https://yuval-malachi-cc009726.zappy5.app/speaking
+
+### Contact
+https://yuval-malachi-cc009726.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://yuval-malachi-cc009726.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://yuval-malachi-cc009726.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://yuval-malachi-cc009726.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Yuval Malachi
+Yuval Malachi is a business in the public speaking industry.
+
+## Target Audience
+- Corporate Event Planners
+- Leadership Development Coordinators
+- Higher Education Conference Organizers
+- Entrepreneurial Networks
+- Non-Profit Organization Leaders
+
+## Industry
+public speaking
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://yuval-malachi-cc009726.zappy5.app/sitemap.xml
+- **Robots.txt**: https://yuval-malachi-cc009726.zappy5.app/robots.txt

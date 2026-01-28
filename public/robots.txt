@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yuval-malachi-cc009726.zappy5.app/sitemap.xml
